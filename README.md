@@ -1,7 +1,7 @@
 # Python 3.9.7 Caesar Cipher Hacker Program
 
 Break the code from a Caesar Cipher with Python.
-In this tutorial, we will exploit an encrypted message with a simple decoding way.
+In this tutorial, we will exploit an encrypted message with a simple decoding method.
 
 
 "**We can hack the Caesar cipher by using a cryptanalytic technique called “Brute-Force**”
